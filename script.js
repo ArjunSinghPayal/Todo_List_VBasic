@@ -1,5 +1,4 @@
-let command;
-command= prompt("Enter a Command").toLowerCase();
+let command= prompt("Enter a Command").toLowerCase();
 let List=[];
 let count=0;
 while(command !== "quit")
